@@ -49,7 +49,7 @@ Bootstrap	      UI Design
 
 
 # Project Folder Structure
-'''
+'''plaintext
 secure-code-review/
 │
 ├── app.py
