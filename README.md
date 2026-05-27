@@ -49,7 +49,7 @@ Bootstrap	      UI Design
 
 
 # Project Folder Structure
-
+'''
 secure-code-review/
 │
 ├── app.py
@@ -65,7 +65,7 @@ secure-code-review/
 │   └── style.css
 │
 └── uploads/
-
+'''
 # Advantages
 - Easy to use
 - Improves software security
