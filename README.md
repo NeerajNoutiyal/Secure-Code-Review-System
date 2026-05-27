@@ -66,3 +66,32 @@ secure-code-review/
 │
 └── uploads/
 
+# Advantages
+- Easy to use
+- Improves software security
+- Automated vulnerability detection
+- Beginner-friendly cybersecurity project
+- Useful for developers
+
+# Limitations
+- Regex-based detection only
+- Cannot detect advanced vulnerabilities
+- Limited programming language support
+
+# Future Enhancements
+- AI-based vulnerability detection
+- Multi-language support
+- PDF report generation
+- Real-time code scanning
+- Integration with GitHub
+
+# Conclusion
+The Secure Code Review System is an effective beginner cybersecurity project that demonstrates how automated tools can identify insecure coding practices. It improves software quality and helps developers create safer applications.
+
+# How to Run the Project
+python app.py
+
+# FINAL PROJECT FLOW
+
+<img width="1400" height="764" alt="image" src="https://github.com/user-attachments/assets/8fc550b4-1e68-4c1f-b424-33f2d56f83c4" />
+
