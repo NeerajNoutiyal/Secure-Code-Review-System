@@ -47,9 +47,9 @@ Bootstrap	      UI Design
 4. Vulnerabilities identified
 5. Report generated
 
+## Project Folder Structure
 
-# Project Folder Structure
-'''plaintext
+```plaintext
 secure-code-review/
 │
 ├── app.py
@@ -65,7 +65,7 @@ secure-code-review/
 │   └── style.css
 │
 └── uploads/
-'''
+```
 # Advantages
 - Easy to use
 - Improves software security
